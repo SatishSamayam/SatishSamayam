@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satish Samayam</h1>
+<h1 align="center">Hi there, I'm Satish Samayam</h1>
 
 
 - I'm from India and currently working as a Senior Project Officer at the Indian Institute of Technology Madras, India. 
